@@ -1,6 +1,6 @@
 {
   "name": "bank_modern_app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://prashus23.github.io/",
